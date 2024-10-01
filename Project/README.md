@@ -1,10 +1,14 @@
 # Analysis of the Job Market for Jobs Connected with Data in European Union
 
-Note: this analysis was done using the data from and with help from the course by Luke Barousse
+Welcome to the unpredictable world of data. In this project I've tried to show what this industry consists of with the help of Luke Barrousse's Course on Python. 
 
-## What Insights can be Gathered through this Analysis?
-- An EDA (Exploratory Data Analysis) on the market of Data roles
-- A visual representation of the Top 5 skills required for 4 most popular professions connected with data analysis
+## You'll be able to gather insights on:
+
+* **Skill Prioritization:**  The analysis reveals the top five skills crucial for success across four prominent data-related professions, offering a clear picture of skill importance and market demand.
+* **Demand Fluctuations:** Dynamic visualizations track the ebb and flow of skill demand throughout 2023, pinpointing the year's most impactful trends and emerging skill sets.
+* **Optimal Skill Combinations:** A strategic scatterplot uncovers the most effective skill combinations for maximizing career prospects within the competitive data job market.
+* **Exploratory Data Analysis (EDA):** A comprehensive EDA provides a holistic view of the data roles market, offering a deeper understanding of trends and opportunities.
+* **Visualized Skill Demand:**  Visual representations clarify the demand for the most popular skills across four key data professions.
 
 
 ## 1. Exploratory Data Analysis
@@ -66,7 +70,7 @@ These are the skills, that have shown the biggest growth in demand, and had more
 
 ![alt text](<../The Graph Pictures/GRAph.png>)
 
-As can be seen on this chart, none of the most demanded skills show significant signs of becoming less popular; neither on the general chart, nor on the chart specific for the role.
+As can be seen on this chart (if the chart is too small for you, it is accessible through the graph pictures folder), none of the most demanded skills show significant signs of becoming less popular; neither on the general chart, nor on the chart specific for the role.
 There are some minor differences from month to month, but they are none that worth mentioning.
 
 ## 4. Salary Analysis
