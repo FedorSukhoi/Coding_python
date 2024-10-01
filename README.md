@@ -14,31 +14,31 @@ Welcome to the unpredictable world of data. In this project I've tried to show w
 ## 1. Exploratory Data Analysis
 First of all, what countries are the most active in the data market?
 
-![alt text](<../The Graph Pictures/Countries_Sorted_by_Job_count.png>)
+![alt text](<The Graph Pictures/Countries_Sorted_by_Job_count.png>)
 
 The output shows that the France is the leader by far, which may suggest that this country is the best for people searching for a job in Data.
 
 Next, it is important to know: what are the chances to find a job, which doesn't require a degree? or a job, where it's possible to work from home?
 
-![alt text](<../The Graph Pictures/Benefits.png>)
+![alt text](<The Graph Pictures/Benefits.png>)
 
 As seen on the graph, it's important to be present at the office for the majority of employers, however degree is considered to be a nice add-on, rather than requirement.
 
 Also, it is important to understand, who dictates the trends on the job market?
 
-![alt text](<../The Graph Pictures/Companies_trend-setters.png>)
+![alt text](<The Graph Pictures/Companies_trend-setters.png>)
 
 The graph tells us that the biggest trend-setter is Confidenziale. However, there are some other companies, who are more than active.
 
 Most importantly, everyone wants to know the pay. Do companies in EU share this info in the postings?
 
-![alt text](<../The Graph Pictures/Info_on_salary.png>)
+![alt text](<The Graph Pictures/Info_on_salary.png>)
 
 Yes, the answer is yes. Undoubtebly.
 
 So, what can a, let's say, Data Analyst expect from his salary?
 
-![alt text](<../The Graph Pictures/da_salary_bplot.png>)
+![alt text](<The Graph Pictures/da_salary_bplot.png>)
 
 Well, around $75k a year median, not bad for a start.
 
@@ -46,7 +46,7 @@ Well, around $75k a year median, not bad for a start.
 
 The most important thing to know about a profession is to know what do you have to do. But if we want to count that, we would need to calculate the probability of the given skill, appearing in a job posting of the given job role:
 
-![alt text](<../The Graph Pictures/Demanded_skills.png>)
+![alt text](<The Graph Pictures/Demanded_skills.png>)
 
 This dashboard gives a deep dive into the peculiarities of 4 most popular roles in the world of data. The most demanding being Data Engineer, and the less demanding being the Business Analyst. But, in my humble opinion, it is connected with the role itself being not massively popular, hence different employers might require polarizing sets of skills and abilities.
 
@@ -64,11 +64,11 @@ Overall, the chart suggests that SQL and Python are essential across most data-r
 
 It's great to know about popular skills, but what's better is to notice the skills, which are only starting to be trending earlier, than the majority pf people in the industry. 
 
-![alt text](<../The Graph Pictures/Trending_skills.png>)
+![alt text](<The Graph Pictures/Trending_skills.png>)
 
 These are the skills, that have shown the biggest growth in demand, and had more than 50 counts per month. It's cool to find out about these, but without the core of the most demanded skills, it's a losing game. But do any of the necessary skills lose their popularity?
 
-![alt text](<../The Graph Pictures/GRAph.png>)
+![alt text](<The Graph Pictures/GRAph.png>)
 
 As can be seen on this chart (if the chart is too small for you, it is accessible through the graph pictures folder), none of the most demanded skills show significant signs of becoming less popular; neither on the general chart, nor on the chart specific for the role.
 There are some minor differences from month to month, but they are none that worth mentioning.
@@ -77,11 +77,11 @@ There are some minor differences from month to month, but they are none that wor
 
 One of the most important things while pursuing a career in data is a paycheck. There are several roles with their differences and similarities, which result in the difference in salary
 
-![alt text](<../The Graph Pictures/EU_Salaries.png>)
+![alt text](<The Graph Pictures/EU_Salaries.png>)
 
 This graph presents several boxplots for different jobs in data field, giving a deep dive in what might be the best choice in terms of material potential. As can be seen, the most high-paying jobs in data are Scientists and Engineers, so it makes sense to observe them more closely, what skills pay the most? Which of the necessary skills pay more?
 
-![alt text](<../The Graph Pictures/DES_paying_skills.png>)
+![alt text](<The Graph Pictures/DES_paying_skills.png>)
 
 On this plot everything becomes clear in terms of skills. Yes, there are some more high-paying skills with the count of more than 30, yet the difference between them and the most relevant skills with counts over several hundreds, it is a big question whether most high-paying skills worth it.
 
@@ -89,7 +89,7 @@ On this plot everything becomes clear in terms of skills. Yes, there are some mo
 
 The highest-paying skills were discovered, the most popular too, yet the questions remains: what are the most optimal. Well, the best thing to discover through is scatterplot.
 
-![alt text](<../The Graph Pictures/Optimal.png>)
+![alt text](<The Graph Pictures/Optimal.png>)
 
 Now **that** is a clear representation of what is worth observing. It is a bit clustered around the center, but the most optimal skills are on the right, like SQL and Python, and on the top, like airflow and spark
 
