@@ -87,11 +87,20 @@ On this plot everything becomes clear in terms of skills. Yes, there are some mo
 
 ## 5. Optimal Skills
 
-The highest-paying skills were discovered, the most popular too, yet the questions remains: what are the most optimal. Well, the best thing to discover through is scatterplot.
+The highest-paying skills were discovered, the most popular too, yet the questions remains: what are the most optimal? Well, the best thing to discover through is scatterplot.
 
 ![alt text](<The Graph Pictures/Optimal.png>)
 
 Now **that** is a clear representation of what is worth observing. It is a bit clustered around the center, but the most optimal skills are on the right, like SQL and Python, and on the top, like airflow and spark
 
-Here it is. The deepest possible dive in data industry, as I'd say.
+## 6. Optimal Coefficient
 
+Analyzing scatterplots may be hard for an untrained eye, that's why I have decided to create an optimal coefficient, and create a simple horizontal bar chart, representing skills sorted by that coefficient:
+
+![alt text](<The Graph Pictures/Optimal_coefficient.png>)
+
+
+
+## Conclusion
+
+Python is great. There is no denying that. It is truly amazing to be able to say that I can use it confidently, at least in one profile. I have completed a deep dive into Job Market for Jobs Connected with Data in European Union, and in my opinion it is truly remarkable.
